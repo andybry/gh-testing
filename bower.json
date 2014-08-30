@@ -1,0 +1,6 @@
+{
+  "name": "gh-testing",
+  "dependencies": {
+    "reset-scss": "*"
+  }
+}
